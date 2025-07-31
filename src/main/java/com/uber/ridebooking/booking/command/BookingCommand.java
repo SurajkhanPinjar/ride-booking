@@ -6,4 +6,5 @@ import com.uber.ridebooking.driver.entity.Driver;
 
 public interface BookingCommand {
     Booking execute(BookingRequest request, Driver driver);
+
 }
