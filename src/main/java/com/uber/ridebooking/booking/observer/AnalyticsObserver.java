@@ -1,7 +1,6 @@
 package com.uber.ridebooking.booking.observer;
 
 import com.uber.ridebooking.booking.entity.Booking;
-import com.uber.ridebooking.booking.observer.BookingObserver;
 import org.springframework.stereotype.Component;
 
 @Component
